@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>priscila-and-elias</title>
+    <link href="http://github.com/eliasdimorais/casamentopriscilaeelias.git/feed.xml" rel="self" />
+    <link href="http://github.com/eliasdimorais/casamentopriscilaeelias.git" />
+    <updated>2017-08-09T00:23:44-03:00</updated>
+    <author>
+        <name>Elias Fernandes</name>
+    </author>
+    <id>http://github.com/eliasdimorais/casamentopriscilaeelias.git</id>
+
+    <entry>
+        <title>Nossas Músicas</title>
+        <author>
+            <name>Priscila Angelo</name>
+        </author>
+        <link href="http://github.com/eliasdimorais/casamentopriscilaeelias.git/nossas-musicas.html"/>
+        <id>http://github.com/eliasdimorais/casamentopriscilaeelias.git/nossas-musicas.html</id>
+            <category term="som"/>
+            <category term="musica"/>
+            <category term="momentos"/>
+            <category term="lembrancas"/>
+
+        <updated>2017-08-08T23:25:16-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                Ano
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sim! Vamos nos casar.</title>
+        <author>
+            <name>Elias Fernandes</name>
+        </author>
+        <link href="http://github.com/eliasdimorais/casamentopriscilaeelias.git/sim-vamos-nos-casar.html"/>
+        <id>http://github.com/eliasdimorais/casamentopriscilaeelias.git/sim-vamos-nos-casar.html</id>
+            <category term="foto"/>
+            <category term="casamento"/>
+            <category term="amor"/>
+
+        <updated>2017-08-08T23:22:15-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://github.com/eliasdimorais/casamentopriscilaeelias.git/media/posts/1/20427087_1546286445441975_38705815_o.jpg" alt="" />
+                <figure class="post__image post__image--wide" contenteditable="false"><img src="http://github.com/eliasdimorais/casamentopriscilaeelias.git/media/posts/1/nos.jpeg" alt="Pedido de Casamento" width="1280" height="957">
+<figcaption contenteditable="true">"Momento mais feliz da minha vida" - Elias</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

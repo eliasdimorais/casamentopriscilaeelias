@@ -1,0 +1,47 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "priscila-and-elias",
+    "description": "",
+    "home_page_url": "http://github.com/eliasdimorais/casamentopriscilaeelias.git",
+    "feed_url": "http://github.com/eliasdimorais/casamentopriscilaeelias.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Elias Fernandes"
+    },
+    "items": [
+        {
+            "id": "http://github.com/eliasdimorais/casamentopriscilaeelias.git/nossas-musicas.html",
+            "url": "http://github.com/eliasdimorais/casamentopriscilaeelias.git/nossas-musicas.html",
+            "title": "Nossas Músicas",
+            "content_html": "Ano",
+            "author": {
+                "name": "Priscila Angelo"
+            },
+            "tags": [
+                   "som",
+                   "musica",
+                   "momentos",
+                   "lembrancas"
+            ],
+            "date_published": "2017-08-09T00:23:44-03:00",
+            "date_modified": "2017-08-08T23:25:16-03:00"
+        },
+        {
+            "id": "http://github.com/eliasdimorais/casamentopriscilaeelias.git/sim-vamos-nos-casar.html",
+            "url": "http://github.com/eliasdimorais/casamentopriscilaeelias.git/sim-vamos-nos-casar.html",
+            "title": "Sim! Vamos nos casar.",
+            "content_html": "<figure class=\"post__image post__image--wide\" contenteditable=\"false\"><img src=\"http://github.com/eliasdimorais/casamentopriscilaeelias.git/media/posts/1/nos.jpeg\" alt=\"Pedido de Casamento\" width=\"1280\" height=\"957\">\n<figcaption contenteditable=\"true\">\"Momento mais feliz da minha vida\" - Elias</figcaption>\n</figure>",
+            "image": "http://github.com/eliasdimorais/casamentopriscilaeelias.git/media/posts/1/20427087_1546286445441975_38705815_o.jpg",
+            "author": {
+                "name": "Elias Fernandes"
+            },
+            "tags": [
+                   "foto",
+                   "casamento",
+                   "amor"
+            ],
+            "date_published": "2017-08-09T00:23:44-03:00",
+            "date_modified": "2017-08-08T23:22:15-03:00"
+        }
+    ]
+}
