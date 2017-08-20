@@ -23,7 +23,7 @@
                    "momentos",
                    "lembrancas"
             ],
-            "date_published": "2017-08-20T10:58:25-03:00",
+            "date_published": "2017-08-20T12:44:25-03:00",
             "date_modified": "2017-08-08T23:25:16-03:00"
         },
         {
@@ -31,7 +31,7 @@
             "url": "http://github.com/eliasdimorais/casamentopriscilaeelias.git/sim-vamos-nos-casar.html",
             "title": "Sim! Vamos nos casar.",
             "content_html": "<figure class=\"post__image post__image--wide\" contenteditable=\"false\"><img src=\"http://github.com/eliasdimorais/casamentopriscilaeelias.git/media/posts/1/nos.jpeg\" alt=\"Pedido de Casamento\" width=\"1280\" height=\"957\">\n<figcaption contenteditable=\"true\">\"Momento mais feliz da minha vida\" - Elias</figcaption>\n</figure>",
-            "image": "http://github.com/eliasdimorais/casamentopriscilaeelias.git/media/posts/1/20427087_1546286445441975_38705815_o.jpg",
+            "image": "http://github.com/eliasdimorais/casamentopriscilaeelias.git/media/posts/1/nos.jpeg",
             "author": {
                 "name": "Elias Fernandes"
             },
@@ -40,8 +40,8 @@
                    "casamento",
                    "amor"
             ],
-            "date_published": "2017-08-20T10:58:25-03:00",
-            "date_modified": "2017-08-08T23:22:15-03:00"
+            "date_published": "2017-08-20T12:44:25-03:00",
+            "date_modified": "2017-08-20T11:12:04-03:00"
         }
     ]
 }
